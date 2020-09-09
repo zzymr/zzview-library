@@ -1,4 +1,4 @@
-# zz-view
+# zzview
 
 > 基于Vue的PC版UI组件库
 
